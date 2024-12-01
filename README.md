@@ -35,4 +35,4 @@ I’m excited to connect with professionals in accounting and data. If you want 
 
 ---
 
-⭐ **Thanks for visiting my profile!** If you find my projects interesting, don’t forget to leave a star ⭐.
+⭐ **Thanks for visiting my profile!**
