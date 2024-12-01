@@ -1,6 +1,6 @@
 # Hi, I'm Eliana! 👋
 
-I am a **Public Accountant** with experience in **accounting and finance**, passionate about numbers and the stories they can tell. Recently, I have started exploring the world of **data analysis**, using modern tools to uncover insights and support decision-making.
+I am a **Public Accountant** with experience in **accounting and finance**, passionate about numbers. Recently, I have started exploring the world of **data analysis**, using modern tools to uncover insights and support decision-making.
 
 ---
 
